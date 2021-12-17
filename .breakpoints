@@ -1,0 +1,26 @@
+{
+  "files": {
+    "src/App.jsx": [
+      {
+        "id": "a8391ced-e9f8-4dc5-89a6-c4f37bba7297",
+        "line": 9,
+        "version": 407,
+        "index": 314
+      },
+      {
+        "id": "45b4e927-044e-4ff9-99df-3c816ab8980c",
+        "line": 11,
+        "version": 407,
+        "index": 446
+      }
+    ],
+    "src/utils/MyEpicNFT.json": [
+      {
+        "id": "ff579c4a-0f61-4fea-9b07-2e6547b0040e",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      }
+    ]
+  }
+}
